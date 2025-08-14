@@ -24,7 +24,6 @@ The system consists of the following functional modules:
 - LEDs (3 units for lighting indicators)  
 - External Power Supply
 
-> *Note: Temperature sensor and second ultrasonic sensor were not used in the final implementation.*
 
 ## Software Architecture  
 - **Programming Language**: C++ via Arduino IDE  

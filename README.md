@@ -40,7 +40,7 @@ The system consists of the following functional modules:
 ## Mobile App Interface  
 The mobile application, built using MIT App Inventor, provides intuitive control over all system components. Users can connect via Bluetooth, operate the gate, elevator, sliding door, and toggle lighting with dedicated buttons.
 
-![Smart Eyes App Interface](App.png)
+![Smart Eyes App Interface](App .png)
 
 ## Functional Flow  
 1. **Vehicle Entry**:  

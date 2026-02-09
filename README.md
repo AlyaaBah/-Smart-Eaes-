@@ -41,7 +41,8 @@ The mobile application, built using MIT App Inventor, provides intuitive control
 
 ![Smart Eyes App Interface](App.png)
 
-![Smart Eyes project](Thefinalproject.png)
+![Smart Eyes project](Thefinalproject.jpeg)
+
 ## Functional Flow  
 1. **Vehicle Entry**:  
    - IR sensor detects incoming vehicle  
